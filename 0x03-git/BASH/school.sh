@@ -1,3 +1,3 @@
 #!/usr/bin/bash
 # this is a bash comment
-echo "welcome to school"
+echo "The school is open"
