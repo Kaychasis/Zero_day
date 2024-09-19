@@ -1,1 +1,3 @@
-This is my first README 
+This is my first READM
+this is update script readme
+ 
